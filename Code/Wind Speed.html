@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Home</title>
+    <title>Wind Speed Visualization</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
@@ -31,7 +31,8 @@
 
           <a class="nav-link dropdown-toggle nav_font" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
           Plots</a>
-          
+
+          <!--dropdown menu-->
           <div class="dropdown-menu" aria-labelledby="navbarDropdown">
             <a class="dropdown-item" href="Max Temp.html">Max Temperature</a>
             <a class="dropdown-item" href="Humidity.html">Humidity</a>
@@ -53,14 +54,15 @@
   </div>
 </nav>
 
-  <!-- content via 1 row/ 2 containers | fluid to ensure full width of viewport used-->
+   <!-- content via 1 row/ 2 columns; side by side at lg/md and one above other at sm | fluid to ensure full width of viewport used-->
   <div class="container-fluid">
     <div class="row">
       <div class="col-md-7">
-        <h1> Wind Speed </h1>
+        <h1>Wind Speed</h1>
         <!-- center image over text via class = "center"-->
         <img src="..\Resources\assets\images\Figure 4.png" alt="Figure 4" class="center" width="65%" height="55%">
-        <p>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</p>
+        <p><b>Findings. </b>While windspeed (mph) appears to increase with decreasing latitudes in the northern hemisphere, the relationship is not signifigant (n=385; slope = 0.03; r^2 = 0.01; p-value=0.0508).</p>
+        <p>The relationship between windspeed (mph) and latitude is also not significant in the southern hemisphere (n=185; slope = -0.04; r^2 = 0.011; p-value=0.150) </p>
       </div>
       <div class="col-md-5 col-sm-12">
         <div class="container-fluid" id="col_style_2">
@@ -69,6 +71,8 @@
                 <h2> Visualizations</h2>
             </div>
           </div> 
+          <!--flex columns within row: 2x2 at lg/md and 4x1 at sm -->
+          <!--images: hyperlinked, adaptive sizing via percentages; current vis highlighted via id="border" and d="highlighter"-->
           <div class="row">
               <div class="col-sm-3 col-md-6 col-lg-6"> 
                   <a href="Max Temp.html">
