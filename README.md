@@ -6,25 +6,13 @@ Data is more powerful when we share it with others! Let's take what we've learne
 
 ![Images/landingResize.png](Images/landingResize.png)
 
-### Before You Begin
-
-1. Create a new repository for this project called `Web-Design-Challenge`. **Do not add this homework to an existing repository**.
-
-2. Clone the new repository to your computer.
-
-3. Inside your local git repository, create a directory for the web challenge. Use a folder name to correspond to the challenge: **WebVisualizations**.
-
-4. Add your **html** files to this folder as well as your **assets**, **Resources** and **visualizations** folders.
-
-5. Push the above changes to GitHub or GitLab.
-
-6. Deploy to GitHub pages. 
+### See deployed Github Page > https://mcglash.github.io/Web-Design-Challenge/index.html 
 
 ## Latitude - Latitude Analysis Dashboard with Attitude
 
-For this homework we'll be creating a visualization dashboard website using visualizations we've created in a past assignment. Specifically, we'll be plotting [weather data](Resources/cities.csv).
+For this challenge, create visualization dashboard website using visualizations we've created in a past challenge(https://github.com/McGlash/api-challenge).
 
-In building this dashboard, we'll create individual pages for each plot and a means by which we can navigate between them. These pages will contain the visualizations and their corresponding explanations. We'll also have a landing page, a page where we can see a comparison of all of the plots, and another page where we can view the data used to build them.
+In building this dashboard, create individual pages for each plot and a means by which we can navigate between them. These pages will contain the visualizations and their corresponding explanations, and a landing page where the viewer can see a comparison of all of the plots, and another page where they can view the data used to build them.
 
 ### Website Requirements
 
@@ -45,7 +33,7 @@ The website must consist of 7 pages total, including:
     * The grid must be two visualizations across on screens medium and larger, and 1 across on extra-small and small screens.
 * A ["Data" page](#data-page) that:
   * Displays a responsive table containing the data used in the visualizations.
-    * The table must be a bootstrap table component. [Hint](https://getbootstrap.com/docs/4.3/content/tables/#responsive-tables)
+    * The table must be a bootstrap table component. [see](https://getbootstrap.com/docs/4.3/content/tables/#responsive-tables)
     * The data must come from exporting the `.csv` file as HTML, or converting it to HTML. Try using a tool you already know, pandas. Pandas has a nifty method approprately called `to_html` that allows you to generate a HTML table from a pandas dataframe. See the documentation [here](https://pandas.pydata.org/pandas-docs/version/0.17.0/generated/pandas.DataFrame.to_html.html)
 
 The website must, at the top of every page, have a navigation menu that:
@@ -68,17 +56,9 @@ When finished, submit to BootcampSpot the links to 1) the deployed app and 2) th
 * Be sure your website works at all window widths/sizes.
 * Feel free to take some liberty in the visual aspects, but keep the core functionality the same.
 
-### Bonuses
-
-* Use a different dataset! The requirements above still hold, but make it your own.
-* Use a Bootstrap theme to customize your website. You may use a tool like [Bootswatch](https://bootswatch.com/). Make it look snazzy, give it some attitude. If using this, be sure you also meet all of the requirements listed above.
-* Add extra visualizations! The more comparisons the better, right?
-* Use meaningful glyphicons next to links in the header.
-* Have visualization navigation on every visualizations page with an active state. See the screenshots below.
-
 ### Screenshots
 
-This section contains screenshots of each page that must be built, at varying screen widths. These are a guide; you can meet the requirements without having the pages look exactly like the below images.
+This section contains screenshots of each page that was built, at varying screen widths. 
 
 #### <a id="landing-page"></a>Landing page
 
