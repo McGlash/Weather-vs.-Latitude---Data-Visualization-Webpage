@@ -1,4 +1,4 @@
-# Website Data Visualization Dashboard 
+# Web Design - Data Visualization Dashboard 
 
 ![Images/landingResize.png](Images/landingResize.png)
 
@@ -6,7 +6,7 @@
 
 ## Latitude - Latitude Analysis Dashboard with Attitude
 
-For this challenge, I create visualization dashboard website using visualizations created in a past project(https://github.com/McGlash/api-challenge).
+For this challenge, I created a visualization dashboard website using visualizations created in a past project(https://github.com/McGlash/api-challenge).
 
 In building this dashboard, I created individual pages for each plot and a means by which we can navigate between them. These pages contain the visualizations and their corresponding explanations, and a landing page where the viewer can see a comparison of all of the plots, and another page where they can view the data used to build them.
 
@@ -14,7 +14,7 @@ In building this dashboard, I created individual pages for each plot and a means
 
 For reference, see the ["Screenshots" section](#screenshots) below.
 
-The website must consist of 7 pages total, including:
+The website consists of 7 pages total, including:
 
 * A [landing page](#landing-page) containing:
   * Links to each visualizations page. There is a sidebar containing preview images of each plot, and clicking an image should take the user to that visualization.
