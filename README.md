@@ -6,7 +6,7 @@
 
 ## Latitude - Latitude Analysis Dashboard with Attitude
 
-For this challenge, I created a visualization dashboard website using visualizations created in a past project(https://github.com/McGlash/api-challenge).
+For this challenge, I created a visualization dashboard website using visualizations created in a past project (https://github.com/McGlash/api-challenge).
 
 In building this dashboard, I created individual pages for each plot and a means by which we can navigate between them. These pages contain the visualizations and their corresponding explanations, and a landing page where the viewer can see a comparison of all of the plots, and another page where they can view the data used to build them.
 
