@@ -8,7 +8,7 @@
 
 For this challenge, I created a visualization dashboard website using visualizations created in a past project (https://github.com/McGlash/api-challenge).
 
-In building this dashboard, I created individual pages for each plot and a means by which we can navigate between them. These pages contain the visualizations and their corresponding explanations, and a landing page where the viewer can see a comparison of all of the plots, and another page where they can view the data used to build them.
+In building this dashboard, I created individual pages for each plot and a means by which to navigate between them. These pages contain the visualizations and their corresponding explanations, and a landing page where the viewer can see a comparison of all of the plots, and another page where they can view the data used to build them.
 
 ### Website Requirements
 
@@ -26,7 +26,7 @@ The website consists of 7 pages total, including:
 * A ["Data" page](#data-page) that:
   * Displays a responsive table containing the data used in the visualizations.
 
-The website have a navigation menu that:
+The website has a navigation menu that:
 
 * Has the name of the site on the left of the nav which allows users to return to the landing page from any page.
 * Contains a dropdown menu on the right of the navbar named "Plots" that provides a link to each individual visualization page.
