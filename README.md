@@ -1,10 +1,8 @@
-# Weather vs. Latitude - Data Visualization Dashboard 
+# Weather vs. Latitude - Data Visualization Webpage
 
 ![Images/landingResize.png](Images/landingResize.png)
 
 ### See deployed Github Page > https://mcglash.github.io/Web-Design-Challenge
-
-## Latitude - Latitude Analysis Dashboard with Attitude
 
 I created website using visualizations created in a [past project](https://github.com/McGlash/api-challenge).
 
