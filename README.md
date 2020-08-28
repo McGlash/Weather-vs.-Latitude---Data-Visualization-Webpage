@@ -2,7 +2,7 @@
 
 ![Images/landingResize.png](Images/landingResize.png)
 
-### See deployed Github Page > https://mcglash.github.io/Web-Design-Challenge
+### See deployed Github Page > https://mcglash.github.io/Web-Data-Visualization-Challenge/
 
 I created website using visualizations created in a [past project](https://github.com/McGlash/api-challenge).
 
