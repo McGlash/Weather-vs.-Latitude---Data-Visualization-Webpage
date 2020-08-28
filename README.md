@@ -1,16 +1,16 @@
-# Web Design - Data Visualization Dashboard 
+# Weather vs. Latitude - Data Visualization Dashboard 
 
 ![Images/landingResize.png](Images/landingResize.png)
 
-### See deployed Github Page > https://mcglash.github.io/Web-Design-Challenge/index.html 
+### See deployed Github Page > https://mcglash.github.io/Web-Design-Challenge
 
 ## Latitude - Latitude Analysis Dashboard with Attitude
 
-For this challenge, I created a visualization dashboard website using visualizations created in a past project (https://github.com/McGlash/api-challenge).
+I created website using visualizations created in a [past project](https://github.com/McGlash/api-challenge).
 
 In building this dashboard, I created individual pages for each plot and a means by which to navigate between them. These pages contain the visualizations and their corresponding explanations, and a landing page where the viewer can see a comparison of all of the plots, and another page where they can view the data used to build them.
 
-### Website Requirements
+### Website 
 
 For reference, see the ["Screenshots" section](#screenshots) below.
 
